@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '夜行的家园',
+  title: '夜行的小站',
   tagline: '编程学习之路',
   url: 'https://xuyonghao1002.github.io',
   baseUrl: '/',
